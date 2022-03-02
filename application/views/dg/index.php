@@ -2,7 +2,7 @@
     <div class="col-md-12">
         <div class="box">
             <div class="box-header">
-                <h3 class="box-title">Tb Dg Listing</h3>
+                <h3 class="box-title">Dg Listing</h3>
             	<div class="box-tools">
                     <a href="<?php echo site_url('dg_controller/add'); ?>" class="btn btn-success btn-sm">Add</a> 
                 </div>

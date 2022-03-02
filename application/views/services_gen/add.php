@@ -2,7 +2,7 @@
     <div class="col-md-12">
       	<div class="box box-info">
             <div class="box-header with-border">
-              	<h3 class="box-title">Tb Services Gen Add</h3>
+              	<h3 class="box-title">Services Gen Add</h3>
             </div>
             <?php echo form_open('services_gen_controller/add'); ?>
           	<div class="box-body">

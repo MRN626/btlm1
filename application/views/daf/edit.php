@@ -2,7 +2,7 @@
     <div class="col-md-12">
       	<div class="box box-info">
             <div class="box-header with-border">
-              	<h3 class="box-title">Tb Daf Edit</h3>
+              	<h3 class="box-title">Daf Edit</h3>
             </div>
 			<?php echo form_open('daf_controller/edit/'.$tb_daf['daf_id']); ?>
 			<div class="box-body">

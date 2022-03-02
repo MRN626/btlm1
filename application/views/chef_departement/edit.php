@@ -2,7 +2,7 @@
     <div class="col-md-12">
       	<div class="box box-info">
             <div class="box-header with-border">
-              	<h3 class="box-title">Tb Chef Departement Edit</h3>
+              	<h3 class="box-title">Chef Departement Edit</h3>
             </div>
 			<?php echo form_open('chef_departement_controller/edit/'.$tb_chef_departement['chef_dep_id']); ?>
 			<div class="box-body">

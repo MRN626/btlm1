@@ -2,7 +2,7 @@
     <div class="col-md-12">
       	<div class="box box-info">
             <div class="box-header with-border">
-              	<h3 class="box-title">Tb Bon Commande Add</h3>
+              	<h3 class="box-title">Bon Commande Add</h3>
             </div>
             <?php echo form_open('bon_commande_controller/add'); ?>
           	<div class="box-body">
@@ -53,7 +53,7 @@
 						</div>
 					</div>
 					<div class="col-md-6">
-						<label for="besoin_id" class="control-label"><span class="text-danger">*</span>Tb Fiche Besoin</label>
+						<label for="besoin_id" class="control-label"><span class="text-danger">*</span> information Fiche Besoin</label>
 						<div class="form-group">
 							<select name="besoin_id" class="form-control">
 								<option value="">select tb_fiche_besoin</option>
@@ -70,7 +70,7 @@
 						</div>
 					</div>
 					<div class="col-md-6">
-						<label for="serv_gen_id" class="control-label"><span class="text-danger">*</span>Tb Services Gen</label>
+						<label for="serv_gen_id" class="control-label"><span class="text-danger">*</span> information Services Gen</label>
 						<div class="form-group">
 							<select name="serv_gen_id" class="form-control">
 								<option value="">select tb_services_gen</option>
@@ -87,7 +87,7 @@
 						</div>
 					</div>
 					<div class="col-md-6">
-						<label for="daf_id" class="control-label"><span class="text-danger">*</span>Tb Daf</label>
+						<label for="daf_id" class="control-label"><span class="text-danger">*</span>information Daf</label>
 						<div class="form-group">
 							<select name="daf_id" class="form-control">
 								<option value="">select tb_daf</option>
@@ -104,7 +104,7 @@
 						</div>
 					</div>
 					<div class="col-md-6">
-						<label for="dg_id" class="control-label"><span class="text-danger">*</span>Tb Dg</label>
+						<label for="dg_id" class="control-label"><span class="text-danger">*</span>information Dg</label>
 						<div class="form-group">
 							<select name="dg_id" class="form-control">
 								<option value="">select tb_dg</option>
@@ -121,7 +121,7 @@
 						</div>
 					</div>
 					<div class="col-md-6">
-						<label for="fournisseur_id" class="control-label"><span class="text-danger">*</span>Tb Fournisseur</label>
+						<label for="fournisseur_id" class="control-label"><span class="text-danger">*</span>information Fournisseur</label>
 						<div class="form-group">
 							<select name="fournisseur_id" class="form-control">
 								<option value="">select tb_fournisseur</option>

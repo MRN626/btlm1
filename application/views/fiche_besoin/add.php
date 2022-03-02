@@ -2,7 +2,7 @@
     <div class="col-md-12">
       	<div class="box box-info">
             <div class="box-header with-border">
-              	<h3 class="box-title">Tb Fiche Besoin Add</h3>
+              	<h3 class="box-title">Fiche Besoin Add</h3>
             </div>
             <?php echo form_open('fiche_besoin_controller/add'); ?>
           	<div class="box-body">
@@ -46,7 +46,7 @@
 						</div>
 					</div>
 					<div class="col-md-6">
-						<label for="service_gen_id" class="control-label">Tb Services Gen</label>
+						<label for="service_gen_id" class="control-label">information Services Gen</label>
 						<div class="form-group">
 							<select name="service_gen_id" class="form-control">
 								<option value="">select tb_services_gen</option>
@@ -62,7 +62,7 @@
 						</div>
 					</div>
 					<div class="col-md-6">
-						<label for="chef_dep_id" class="control-label">Tb Chef Departement</label>
+						<label for="chef_dep_id" class="control-label"> information Chef Departement</label>
 						<div class="form-group">
 							<select name="chef_dep_id" class="form-control">
 								<option value="">select tb_chef_departement</option>
@@ -78,7 +78,7 @@
 						</div>
 					</div>
 					<div class="col-md-6">
-						<label for="dg_id" class="control-label">Tb Dg</label>
+						<label for="dg_id" class="control-label">information Dg</label>
 						<div class="form-group">
 							<select name="dg_id" class="form-control">
 								<option value="">select tb_dg</option>
@@ -94,7 +94,7 @@
 						</div>
 					</div>
 					<div class="col-md-6">
-						<label for="daf_id" class="control-label">Tb Daf</label>
+						<label for="daf_id" class="control-label">information Daf</label>
 						<div class="form-group">
 							<select name="daf_id" class="form-control">
 								<option value="">select tb_daf</option>
