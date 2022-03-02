@@ -2,7 +2,7 @@
     <div class="col-md-12">
       	<div class="box box-info">
             <div class="box-header with-border">
-              	<h3 class="box-title">Tb Agent Edit</h3>
+              	<h3 class="box-title">Agent Edit</h3>
             </div>
 			<?php echo form_open('agent_controller/edit/'.$tb_agent['agent_id']); ?>
 			<div class="box-body">
